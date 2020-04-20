@@ -1,4 +1,3 @@
 -- new db
-create database memu_system;
-
+create database menu_system;
 
